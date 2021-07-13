@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bktailors-vone/static/css/main.5f1c2cd9.chunk.css",
+    "main.js": "/bktailors-vone/static/js/main.13af460a.chunk.js",
+    "main.js.map": "/bktailors-vone/static/js/main.13af460a.chunk.js.map",
+    "runtime-main.js": "/bktailors-vone/static/js/runtime-main.45373f23.js",
+    "runtime-main.js.map": "/bktailors-vone/static/js/runtime-main.45373f23.js.map",
+    "static/js/2.6c164ea3.chunk.js": "/bktailors-vone/static/js/2.6c164ea3.chunk.js",
+    "static/js/2.6c164ea3.chunk.js.map": "/bktailors-vone/static/js/2.6c164ea3.chunk.js.map",
+    "static/js/3.da455404.chunk.js": "/bktailors-vone/static/js/3.da455404.chunk.js",
+    "static/js/3.da455404.chunk.js.map": "/bktailors-vone/static/js/3.da455404.chunk.js.map",
+    "index.html": "/bktailors-vone/index.html",
+    "static/css/main.5f1c2cd9.chunk.css.map": "/bktailors-vone/static/css/main.5f1c2cd9.chunk.css.map",
+    "static/js/2.6c164ea3.chunk.js.LICENSE.txt": "/bktailors-vone/static/js/2.6c164ea3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45373f23.js",
+    "static/js/2.6c164ea3.chunk.js",
+    "static/css/main.5f1c2cd9.chunk.css",
+    "static/js/main.13af460a.chunk.js"
+  ]
+}
