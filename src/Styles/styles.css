@@ -1,0 +1,33 @@
+.SearchBox {
+  margin: auto;
+  text-align: center;
+  padding: 15px 0px;
+}
+.card-list {
+  margin: auto;
+  text-align: center;
+  width: 85%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 8px;
+  margin: auto;
+}
+.card {
+  border: 1px solid #eae9e9;
+  padding: 0px 5px;
+  box-shadow: 2px 2px 3px lightgrey;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 20px;
+}
+label {
+  text-align: left;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
